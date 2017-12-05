@@ -21,7 +21,7 @@ jQuery(document).ready(function ($) {
 
     /* Bootstrap Tooltip for Skillset */
     $('.level-label').tooltip();
-    GitHubActivity.feed({ username: "AnanthaKrish", selector: "#ghfeed" });
+    GitHubActivity.feed({ username: "vipinmohan22", selector: "#ghfeed" });
 
 
 
